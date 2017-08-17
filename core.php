@@ -5,7 +5,7 @@ if (!isset($_REQUEST)) {
 } 
 
 //Строка для подтверждения адреса сервера из настроек Callback API 
-$confirmation_token = 'bd618cbd'; 
+$confirmation_token = 'код подтверждения'; 
 
 //Ключ доступа сообщества 
 $token = 'group token'; 
